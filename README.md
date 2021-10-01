@@ -24,7 +24,7 @@ const @EduAlberdi = {
 };
 ```
 
-# Reach me
+# Contact
 - [LinkedIn](https://www.linkedin.com/in/eduard-alberdi/)
 - [Calendly](https://calendly.com/edu-alberdi/letstalk)
 
