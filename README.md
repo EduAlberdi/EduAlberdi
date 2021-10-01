@@ -1,4 +1,4 @@
-# About me
+## :raising_hand: About me
 ```typescript
 const @EduAlberdi = {
     pronouns: "He" | "Him",
@@ -24,7 +24,8 @@ const @EduAlberdi = {
 };
 ```
 
-# Contact
+
+## :telephone_receiver: Contact
 - [LinkedIn](https://www.linkedin.com/in/eduard-alberdi/)
 - [Calendly](https://calendly.com/edu-alberdi/letstalk)
 
