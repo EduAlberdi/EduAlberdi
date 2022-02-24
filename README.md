@@ -7,7 +7,7 @@ const @EduAlberdi = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
-            c: [".NET Core", "C#"]
+            c: [".NET Core", "C#"],
             php: ["PHP"]
         },
         frontEnd: {
