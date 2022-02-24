@@ -11,7 +11,7 @@ const @EduAlberdi = {
             php: ["PHP"]
         },
         frontEnd: {
-            js: ["Angular", "JavaScript", "Redux/RxJS", "LitHTML"]
+            js: ["Angular", "JavaScript", "Redux/RxJS", "LitHTML"],
             html: ["HTML5", "CSS", "SASS", "LESS"]
         },
         devOps: ["AWS", "Azure", "Route53", "Nginx", "Apache"],
