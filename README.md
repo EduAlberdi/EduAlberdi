@@ -8,7 +8,7 @@ const @EduAlberdi = {
         backEnd: {
             js: ["Node", "Express"],
             c: [".NET Core", "C#"],
-            java: ["J2EE"]
+            java: ["J2EE"],
             php: ["PHP"]
         },
         frontEnd: {
