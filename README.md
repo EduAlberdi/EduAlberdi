@@ -2,20 +2,25 @@
 ```typescript
 const @EduAlberdi = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Angular", "C#", ".NET", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "how to ride motorcycles"],
+    code: ["TypeScript", "Angular", "C#", ".NET", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "bikes🏍️"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
             c: [".NET Core", "C#"],
+            java: ["J2EE"]
             php: ["PHP"]
         },
         frontEnd: {
             js: ["Angular", "JavaScript", "Redux/RxJS", "LitHTML"],
-            html: ["HTML5", "CSS", "SASS", "LESS"]
+            html: ["HTML5", "CSS", "SASS", "LESS"],
+            testing: {
+                e2e: ["WDIO", "Cypress"],
+                unit: ["Karma"]
+            }
         },
         devOps: ["AWS", "Azure", "Route53", "Nginx", "Apache"],
-        databases: ["SQL Server", "MySQL", "sqlite", "mariaDb"],
+        databases: ["SQL Server", "MySQL", "Oracle", "sqlite", "mariaDb"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
