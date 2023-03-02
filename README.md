@@ -9,7 +9,7 @@ const @EduAlberdi = {
             js: ["Node", "Express"],
             c: [".NET Core", "C#"],
             java: ["J2EE"],
-            php: ["PHP"]
+            php: ["PHP", "Laravel"]
         },
         frontEnd: {
             js: ["Angular", "JavaScript", "Redux/RxJS", "LitHTML"],
